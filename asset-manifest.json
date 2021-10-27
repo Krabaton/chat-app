@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdb52da3.chunk.css",
-    "main.js": "/static/js/main.d2a0806d.chunk.js",
-    "main.js.map": "/static/js/main.d2a0806d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.508daff3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.508daff3.js.map",
-    "static/js/2.4bdbdf87.chunk.js": "/static/js/2.4bdbdf87.chunk.js",
-    "static/js/2.4bdbdf87.chunk.js.map": "/static/js/2.4bdbdf87.chunk.js.map",
-    "static/js/3.a486bd5b.chunk.js": "/static/js/3.a486bd5b.chunk.js",
-    "static/js/3.a486bd5b.chunk.js.map": "/static/js/3.a486bd5b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bdb52da3.chunk.css.map": "/static/css/main.bdb52da3.chunk.css.map",
-    "static/js/2.4bdbdf87.chunk.js.LICENSE.txt": "/static/js/2.4bdbdf87.chunk.js.LICENSE.txt"
+    "main.css": "/chat-app/static/css/main.bdb52da3.chunk.css",
+    "main.js": "/chat-app/static/js/main.d2a0806d.chunk.js",
+    "main.js.map": "/chat-app/static/js/main.d2a0806d.chunk.js.map",
+    "runtime-main.js": "/chat-app/static/js/runtime-main.b7d194f1.js",
+    "runtime-main.js.map": "/chat-app/static/js/runtime-main.b7d194f1.js.map",
+    "static/js/2.7629277e.chunk.js": "/chat-app/static/js/2.7629277e.chunk.js",
+    "static/js/2.7629277e.chunk.js.map": "/chat-app/static/js/2.7629277e.chunk.js.map",
+    "static/js/3.a486bd5b.chunk.js": "/chat-app/static/js/3.a486bd5b.chunk.js",
+    "static/js/3.a486bd5b.chunk.js.map": "/chat-app/static/js/3.a486bd5b.chunk.js.map",
+    "index.html": "/chat-app/index.html",
+    "static/css/main.bdb52da3.chunk.css.map": "/chat-app/static/css/main.bdb52da3.chunk.css.map",
+    "static/js/2.7629277e.chunk.js.LICENSE.txt": "/chat-app/static/js/2.7629277e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.508daff3.js",
-    "static/js/2.4bdbdf87.chunk.js",
+    "static/js/runtime-main.b7d194f1.js",
+    "static/js/2.7629277e.chunk.js",
     "static/css/main.bdb52da3.chunk.css",
     "static/js/main.d2a0806d.chunk.js"
   ]
